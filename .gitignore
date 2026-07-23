@@ -1,0 +1,11 @@
+# Ignore all files by default
+*
+
+# Whitelist specific files and directories
+!*/
+!audi.csv
+!model.pkl
+!preprocessing.pkl
+!README.md
+!*.ipynb
+!.gitignore
